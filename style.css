@@ -35,6 +35,7 @@ body{
   vertical-align: top;
   position: relative;
   left: -13%;
+  z-index: 3;
 }
 
 .column{
